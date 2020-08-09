@@ -1,0 +1,35 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.moviesy {
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px rgb(199, 198, 198);
+  margin: 20px;
+  display: flexbox;
+  flex-direction: column;
+  justify-content: space-around;
+  background: white;
+  align-items: center;
+  width: 30%;
+}
+
+.title {
+  color: rgb(27, 29, 25);
+  font-size: 2.5rem;
+  padding: 35px 50px 5px 50px;
+  text-align: left;
+}
+.overview {
+  text-align: justify;
+  padding: 5px 50px 5px 50px;
+  color: black;
+  font-size: 1.2rem;
+}
+.imagey {
+  width: 65%;
+padding-top: 5rem;
+padding-bottom: 5rem;
+margin: 0;
+}
